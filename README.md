@@ -3,7 +3,7 @@ C-program games
 
 its a fun simple game that can be played anywhere
 this game is one of logic
-tou try to guess the number the computer has selected based on clues given to you by the computer
+you try to guess the number the computer has selected based on clues given to you by the computer
 A clue is given after each of your guess.
 The clue will be "black" and "white".
 if the computer says "black", that means one of the digits is correct but not in the right order.
