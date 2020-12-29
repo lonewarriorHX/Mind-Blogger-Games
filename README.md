@@ -10,6 +10,8 @@ your guess. The clue will be "black" and "white". if the computer says "black", 
 digits is correct but not in the right order. if the computer says "white", that means one of the digits is
 correct, and has the right order.
 
+![](/pic/ss2.png)
+
 This is the sample run
 
 SAMPLE RUN
@@ -32,3 +34,6 @@ IT IS UP TO YOU TO LOGICALLY FIGURE WHAT NUMBERS ARE CORRECT.
  MORE THAN 1 PEOPLE CAN PLAY. TRY TO SEE WHO CAN DO THE BEST.
  
 This Game is created using c language only. 
+
+![](/pic/ss1.png)
+![](/pic/ss3.png)
